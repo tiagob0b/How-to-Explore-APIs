@@ -4,6 +4,9 @@ The idea of this repository is to assist in studies and ways of exploring the AP
 Before we start with the API exploration phase, it is necessary to have a knowledge base, so I followed in my line of thought, some steps that we should follow to strengthen this base.
 
 ## Level One {Beginner}
+The idea here is to spend as much time as you can sharpening the axe, so that the blow is accurate.
+It's no use having the best tools in our favor, if we don't have a base, it's necessary to understand how HTTP methods work, error messages, what types of APIs are and how each one of them works.
+
 
 Links to Study Articles:
 https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/
@@ -24,3 +27,10 @@ Links to videos/classes for study:
 https://www.youtube.com/watch?v=fvcKwUS4PTE (Recon APIs)
 https://www.youtube.com/watch?v=aQGbYfalRTA (Owasp Top 10 API Bugs)
 https://www.youtube.com/watch?v=AsGSCWCraS8 (Explore Method PUT)
+https://youtu.be/jyjGneKJynk (Finding Your Next Bug: GraphQL)
+
+Links to HTTP Status Code and Methods:
+https://www.devmedia.com.br/http-status-code/41222#3-9
+
+
+## Level Two {Recon}
