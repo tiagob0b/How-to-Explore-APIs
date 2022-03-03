@@ -1,4 +1,4 @@
-# How to Explore APIs
+# How to Explore APIs 🎯
 The idea of this repository is to assist in studies and ways of exploring the API environment.
 
 Before we start with the API exploration phase, it is necessary to have a knowledge base, so I followed in my line of thought, some steps that we should follow to strengthen this base.
@@ -30,6 +30,8 @@ https://youtu.be/jyjGneKJynk (Finding Your Next Bug: GraphQL)<br>
 
 Links to HTTP Status Code and Methods:<br>
 >https://www.devmedia.com.br/http-status-code/41222#3-9<br>
+>https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them <br>
+>https://betterprogramming.pub/9-http-methods-you-want-to-know-88e45a28d106<br>
 
 ### Laboratory Links for Studies: 💻 <br>
 > https://github.com/InsiderPhD/Generic-University (Lab OWASP Top 10 API) <br>
@@ -40,9 +42,37 @@ Links to HTTP Status Code and Methods:<br>
 > https://github.com/roottusk/vapi (vAPI is Vulnerable API OWAP Top 10 API) <br>
 
 
+### Suggestions for courses on Udemy, to help you understand the structure of some APIs. 👍
+https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/ <br>
+https://www.udemy.com/course/aprenda-postman-em-1-hora-iniciante/ <br>
+https://www.udemy.com/course/springboot-essencial/ <br>
+https://www.udemy.com/course/crie-apis-rest-com-spring-boot-do-iniciante-ao-especialista/ <br>
+https://www.udemy.com/course/webapi-entityframework-mysql/ <br>
+https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis/ <br>
+https://www.udemy.com/course/microsservicos-java-spring-cloud/ <br>
+https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/ <br>
+
+
 ## Level Two {Recon} ℹ️
 The first phase of a pentesting is the famous Recon "Information Collection" here is the moment where we must understand about the API infrastructure that we are analyzing.
 
 Here I will provide a "Recon Mindmap" that will help you with some tools and methodologies in the API Recon phase, this mindmap was not created by me.
 
 >https://dsopas.github.io/MindAPI/play/
+
+During my study journey, I made a survey of the most found and exploited vulnerabilities when we talk about APIs:
+
+- API Exposure
+- Misconfigured Caching
+- Exposed Tokens
+- JWT Weaknesses
+- Authorization Issues
+- Undocumented Endpoints
+- Different Versions
+- Rate Limiting (BF Allowed)
+- Race Conditions
+- XXE Injection
+- Switching Content Type
+- HTTP Methods
+- Injection Vulnerabilities
+
