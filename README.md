@@ -76,3 +76,17 @@ During my study journey, I made a survey of the most found and exploited vulnera
 - HTTP Methods
 - Injection Vulnerabilities
 
+
+## Level three {Exploration} ⚠️
+
+### Tools:
+>https://github.com/Fuzzapi/fuzzapi <br>
+https://github.com/Fuzzapi/API-fuzzer <br>
+https://github.com/flipkart-incubator/Astra <br>
+https://github.com/BBVA/apicheck/ <br>
+https://github.com/ngalongc/openapi_security_scanner <br>
+https://github.com/assetnote/kiterunner <br>
+https://github.com/s0md3v/dump/tree/master/json2paths <br>
+https://github.com/imperva/automatic-api-attack-tool <br>
+https://github.com/microsoft/restler-fuzzer <br>
+https://github.com/RhinoSecurityLabs/Swagger-EZ <br>
