@@ -58,7 +58,7 @@ https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/ <br>
 ## Level Two {Recon} ℹ️
 The first phase of a pentesting is the famous Recon "Information Collection" here is the moment where we must understand about the API infrastructure that we are analyzing.
 
-Here I will provide a "Recon Mindmap" that will help you with some tools and methodologies in the API Recon phase, this mindmap was not created by me.
+Here I will provide a "API Mindmap" that will help you with some tools and methodologies in the API Recon phase, this mindmap was not created by me.
 
 >https://dsopas.github.io/MindAPI/play/
 
