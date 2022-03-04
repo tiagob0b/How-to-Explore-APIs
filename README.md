@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=aQGbYfalRTA (Owasp Top 10 API Bugs)<br>
 https://www.youtube.com/watch?v=AsGSCWCraS8 (Explore Method PUT)<br>
 https://youtu.be/jyjGneKJynk (Finding Your Next Bug: GraphQL)<br>
 
-Links to HTTP Status Code and Methods:<br>
+### Links to HTTP Status Code and Methods:<br>
 >https://www.devmedia.com.br/http-status-code/41222#3-9<br>
 >https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them <br>
 >https://betterprogramming.pub/9-http-methods-you-want-to-know-88e45a28d106<br>
@@ -41,6 +41,8 @@ Links to HTTP Status Code and Methods:<br>
 > https://github.com/h-a-c/jwt-lab (LAB JSON Web Token) <br>
 > https://github.com/roottusk/vapi (vAPI is Vulnerable API OWAP Top 10 API) <br>
 
+### Suggestions for courses Hacking: 🕸️
+>https://sec4us.com.br/treinamentos/web-api-exploitation/
 
 ### Suggestions for courses on Udemy, to help you understand the structure of some APIs. 👍
 https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/ <br>
