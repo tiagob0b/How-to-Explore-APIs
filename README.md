@@ -86,14 +86,14 @@ During my study journey, I made a survey of the most found and exploited vulnera
 >https://inspector.swagger.io/builder <br>
 https://apitools.dev/swagger-parser/online/
 
-### Convert version Open API
+### Convert version Open API:
 >https://www.apimatic.io/transformer/
 
 
 ### API Security Checklist
 Checklist of the most important security countermeasures when designing, testing, and releasing your API. <br>
 
-#### Authentication
+#### Authentication 
  ✔️ Don't use Basic Auth. Use standard authentication instead (e.g. JWT, OAuth). <br>
  ✔️ Don't reinvent the wheel in Authentication, token generation, password storage. Use the standards. <br>
  ✔️ Use Max Retry and jail features in Login. <br>
