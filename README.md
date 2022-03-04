@@ -164,7 +164,7 @@ https://apitools.dev/swagger-parser/online/
 
 
 <H3 align="center"> API Security Checklist </h3>
-Checklist of the most important security countermeasures when designing, testing, and releasing your API. <br>
+<p align="center">Checklist of the most important security countermeasures when designing, testing, and releasing your API. <br>
 
 
 <table border="1" align="center">    
