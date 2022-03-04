@@ -8,6 +8,18 @@ The idea here is to spend as much time as you can sharpening the axe, so that th
 It's no use having the best tools in our favor, if we don't have a base, it's necessary to understand how HTTP methods work, error messages, what types of APIs are and how each one of them works.
 
 <H3 align="center"> Links to Study Articles: 📘</H3>
+
+<table border="1" align="center">    
+  <tr>
+    <td align="center">Name</td>
+    <td align="center">Description</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert">Hack You APIs</a></td>
+    <td align="center">Hack your APIs: interview with Corey Ball - API security expert</td>  
+   </tr>     
+ </table>    
+
 > https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/<br>
 https://medium.com/@ghostlulzhacks/swagger-api-c07eca05441e<br>
 https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting<br>
@@ -21,7 +33,7 @@ https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm<
 https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/<br>
 https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md#parameter-object<br>
 https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them<br>
-https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert
+
 
 <H3 align="center"> Links to videos/classes for study: 📽️ </H3>
 
