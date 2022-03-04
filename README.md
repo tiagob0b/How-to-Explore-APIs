@@ -28,7 +28,7 @@ https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-securi
 <table border="1">    
      
   <tr>
-    <td>Name</td>
+    <td align="center">Name</td>
     <td align="center">Description</td>
   </tr>
   <tr>
@@ -80,13 +80,13 @@ https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/ <br>
 <table border="1">    
      
   <tr>
-    <td>Author</td>
-    <td>Name</td>
-    <td>Description</td>
+    <td align="center">Author</td>
+    <td align="center">Name</td>
+    <td align="center">Description</td>
   </tr>
  
   <tr>
-   <td>Corey J. Ball</td>
+   <td >Corey J. Ball</td>
     <td><a href="https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces-ebook/dp/B09M82N4B4">Hacking APIs Application Programming Interfaces</a></td>
     <td>Hacking APIs is a crash course in web API security testing that will prepare you to penetration-test APIs, reap high rewards on bug bounty programs, and make your own APIs more secure.</td>
   </tr>
