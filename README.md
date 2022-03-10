@@ -17,15 +17,34 @@ It's no use having the best tools in our favor, if we don't have a base, it's ne
    <tr>
     <td align="center"><a href="https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert">Hack You APIs</a></td>
     <td align="center">Hack your APIs: interview with Corey Ball - API security expert</td>  
-   </tr>     
+   </tr>    
+   <tr>
+    <td align="center"><a href="https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files">Simplifying API Pentesting</a></td>
+    <td align="center">Simplifying API Pentesting With Swagger Files - David Yesland</td>  
+   </tr>    
+   <tr>
+    <td align="center"><a href="https://medium.com/@ghostlulzhacks/swagger-api-c07eca05441e">Swagger API</a></td>
+    <td align="center">Swagger API - Medium (ghostlulz)</td>  
+   </tr>    
+   <tr>
+    <td align="center"><a href="https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting">WEB API Pentesting</a></td>
+    <td align="center">Book Hacktricks</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://pentestbook.six2dez.com/enumeration/webservices/apis">API Pentesting</a></td>
+    <td align="center">Book Pentest API</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://blog.securelayer7.net/api-penetration-testing-with-owasp-2017-test-cases/">API Pentest Owasp 2017</a></td>
+    <td align="center">Pentest APIs with OWASP 2017 Test Cases</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://securityboulevard.com/2021/01/manual-penetration-testing-leaves-apis-exposed">Manual Pentesting APIs</a></td>
+    <td align="center">Manual penetration testing leaves apis exposed</td>  
+   </tr> 
  </table>    
 
-> https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/<br>
-https://medium.com/@ghostlulzhacks/swagger-api-c07eca05441e<br>
-https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting<br>
-https://pentestbook.six2dez.com/enumeration/webservices/apis<br>
-https://blog.securelayer7.net/api-penetration-testing-with-owasp-2017-test-cases/<br>
-https://securityboulevard.com/2021/01/manual-penetration-testing-leaves-apis-exposed/<br>
+
 https://www.danielyan.com/penetration-testing<br>
 https://workbook.securityboat.in/resources/api-pentest<br>
 https://graphql.org/learn/queries/<br>
@@ -62,17 +81,64 @@ https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-h
  </table> 
 
 <H3 align="center"> Links to HTTP Status Code and Methods: </H3>
->https://www.devmedia.com.br/http-status-code/41222#3-9<br>
->https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them <br>
->https://betterprogramming.pub/9-http-methods-you-want-to-know-88e45a28d106<br>
+
+<table border="1" align="center">    
+  <tr>
+    <td align="center">Link</td>
+    <td align="center">Description</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://www.devmedia.com.br/http-status-code/41222#3-9">Link</a></td>
+    <td align="center">Hack your APIs: interview with Corey Ball - API security expert</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them">Link</a></td>
+    <td align="center">7 HTTP Methods every web developer should know and how to test them</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://betterprogramming.pub/9-http-methods-you-want-to-know-88e45a28d106">Link</a></td>
+    <td align="center">9 HTTP Methods you want to know</td>  
+   </tr> 
+  </table>
 
 <H3 align="center"> Laboratory Links for Studies: 💻 </H3>
-> https://github.com/InsiderPhD/Generic-University (Lab OWASP Top 10 API) <br>
-> https://application.security/free/owasp-top-10-API (Lab OWASP Top 10 API) <br>
-> https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application (Lab API GraphQL) <br>
-> https://github.com/CarveSystems/vulnerable-graphql-api (Lab API GraphQL Vuln) <br>
-> https://github.com/h-a-c/jwt-lab (LAB JSON Web Token) <br>
-> https://github.com/roottusk/vapi (vAPI is Vulnerable API OWAP Top 10 API) <br>
+
+<table border="1" align="center">    
+  <tr>
+    <td align="center">Link</td>
+    <td align="center">Description</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/InsiderPhD/Generic-University">Link</a></td>
+    <td align="center"> Generic University - Lab OWASP Top 10 API</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="">Link</a></td>
+    <td align="center"> Aplication Security - Lab OWASP Top 10 API </td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">Link</a></td>
+    <td align="center">Lab API GraphQL (Github)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://github.com/CarveSystems/vulnerable-graphql-api">Link</a></td>
+    <td align="center">Lab API GraphQL Vuln (Github)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="">Link</a></td>
+    <td align="center"> </td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://github.com/h-a-c/jwt-lab">Link</a></td>
+    <td align="center">LAB JSON Web Token (Github)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://github.com/roottusk/vapi">Link</a></td>
+    <td align="center">vAPI is Vulnerable API OWAP Top 10 API (Github)</td>  
+   </tr>  
+  </table>
+
+
 
 <H3 align="center"> Suggestions for courses Hacking: 🕸️ </H3>
 >https://sec4us.com.br/treinamentos/web-api-exploitation/
