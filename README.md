@@ -42,18 +42,32 @@ It's no use having the best tools in our favor, if we don't have a base, it's ne
     <td align="center"><a href="https://securityboulevard.com/2021/01/manual-penetration-testing-leaves-apis-exposed">Manual Pentesting APIs</a></td>
     <td align="center">Manual penetration testing leaves apis exposed</td>  
    </tr> 
- </table>    
-
-
-https://www.danielyan.com/penetration-testing<br>
-https://workbook.securityboat.in/resources/api-pentest<br>
-https://graphql.org/learn/queries/<br>
-https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm<br>
-https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/<br>
-https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md#parameter-object<br>
-https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them<br>
-
-
+  <tr>
+    <td align="center"><a href="https://www.danielyan.com/penetration-testing">Penetration Testing</a></td>
+    <td align="center">Understanding the differences in penetration testing</td>  
+   </tr>
+   <tr>
+    <td align="center"><a href="https://workbook.securityboat.in/resources/api-pentest">API Pentest</a></td>
+    <td align="center">API Security Checklist</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://graphql.org/learn/queries/">Queries and Mutations</a></td>
+    <td align="center">Learning in detail about how to query a GraphQL server.</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm">OWASP API Security Top 10</a></td>
+    <td align="center">I understand the 0 OWASP Top ten vulnerabilities in APIs</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">How to Hack APIs in 2021</a></td>
+    <td align="center">I understand how the APIs work</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md#parameter-object">Parameter Object</a></td>
+    <td align="center">OpenAPI Specification</td>  
+   </tr> 
+  </table>    
+   
 <H3 align="center"> Links to videos/classes for study: 📽️ </H3>
 
 <table border="1">    
@@ -141,17 +155,48 @@ https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-h
 
 
 <H3 align="center"> Suggestions for courses Hacking: 🕸️ </H3>
->https://sec4us.com.br/treinamentos/web-api-exploitation/
+<H5 align="center"><a href="https://sec4us.com.br/treinamentos/web-api-exploitation/">Sec4us - WEB API Explotation (Portuguese)</a> </H5>
 
 <H3 align="center"> Suggestions for courses on Udemy, to help you understand the structure of some APIs. 👍 </H3>
->https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/ <br>
-https://www.udemy.com/course/aprenda-postman-em-1-hora-iniciante/ <br>
-https://www.udemy.com/course/springboot-essencial/ <br>
-https://www.udemy.com/course/crie-apis-rest-com-spring-boot-do-iniciante-ao-especialista/ <br>
-https://www.udemy.com/course/webapi-entityframework-mysql/ <br>
-https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis/ <br>
-https://www.udemy.com/course/microsservicos-java-spring-cloud/ <br>
-https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/ <br>
+
+<table border="1" align="center">    
+  <tr>
+    <td align="center">Link</td>
+    <td align="center">Description</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/aprenda-postman-em-1-hora-iniciante/">Link</a></td>
+    <td align="center"> How to Learning Postman in 1h (Portuguese)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/">Link</a></td>
+    <td align="center"> Automation Tests in API with Postman (Portuguese)</td>  
+   </tr>
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/webapi-entityframework-mysql/">Link</a></td>
+    <td align="center">WebAPI Framework Mysql (Ingles)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis/">Link</a></td>
+    <td align="center">Graphql Create Professional APIs (Portuguese)</td>  
+   </tr>
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/">Link</a></td>
+    <td align="center">Course Graphql + Apollo Server (Portuguese)</td>  
+   </tr>  
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/crie-apis-rest-com-spring-boot-do-iniciante-ao-especialista/">Link</a></td>
+    <td align="center">Create APIs Rest with Java Spring Boot (Portuguese)</td>  
+   </tr> 
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/microsservicos-java-spring-cloud/">Link</a></td>
+    <td align="center">Microsservices Java Spring Cloud (Ingles)</td>  
+   </tr>
+   <tr>
+    <td align="center"><a href="https://www.udemy.com/course/springboot-essencial/">Link</a></td>
+    <td align="center">Spring Boot Essencial (Ingles)</td>  
+   </tr> 
+  </table>
 
 <H3 align="center"> Seggestions for Books: 📚 </H3>
 
@@ -194,11 +239,11 @@ The first phase of a pentesting is the famous Recon "Information Collection" her
 
 Here I will provide a "API Mindmap" that will help you with some tools and methodologies in the API Recon phase, this mindmap was not created by me.
 
-> https://dsopas.github.io/MindAPI/play/
+<H5 align="center"><a href="https://dsopas.github.io/MindAPI/play/">Mindmap API</a></H5>
 
 <H3 align="center"> WordLists APIs and Endpoins: </H3>
- > https://github.com/TiagoSergio/How-to-Explore-APIs/blob/main/API_wordlist.txt <br>
- > https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/api
+<H5 align="center"><a href="https://github.com/TiagoSergio/How-to-Explore-APIs/blob/main/API_wordlist.txt">API Wordlist</a></H5>
+<H5 align="center"><a href="https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/api">API Wordlists SecLists</a></H5>
 
 
 During my study journey, I made a survey of the most found and exploited vulnerabilities when we talk about APIs:
@@ -220,12 +265,12 @@ During my study journey, I made a survey of the most found and exploited vulnera
 <H2 align="center">  Level three {Exploration} ⚠️ </H2>
 
 
-<H3 align="center">  Inspect Baseline APIs: </h3>
->https://inspector.swagger.io/builder <br>
-https://apitools.dev/swagger-parser/online/
+<H3 align="center">  Inspect Baseline APIs: 🔦 </h3>
+<H5 align="center">https://inspector.swagger.io/builder </H5>
+<H5 align="center">https://apitools.dev/swagger-parser/online/</H5>
 
-### Convert version Open API:
->https://www.apimatic.io/transformer/
+<H3 align="center"> Convert version Open API: 🔄</h3>
+<H5 align="center">https://www.apimatic.io/transformer/</H5>
 
 
 
