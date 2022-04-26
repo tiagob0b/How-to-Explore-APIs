@@ -66,6 +66,10 @@ It's no use having the best tools in our favor, if we don't have a base, it's ne
     <td align="center"><a href="https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md#parameter-object">Parameter Object</a></td>
     <td align="center">OpenAPI Specification</td>  
    </tr> 
+   <tr>
+    <td align="center"><a href="https://medium.com/techtofreedom/7-uses-of-curl-testing-your-apis-conveniently-e27fc7da9250">Curl Testing APIs</a></td>
+    <td align="center">Cases of use API testing with Curl</td>  
+   </tr> 
   </table>    
    
 <H3 align="center"> Links to videos/classes for study: 📽️ </H3>
